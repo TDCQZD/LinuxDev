@@ -225,7 +225,7 @@ SSH 提供了多样的转义字符功能. 用 SSH 连接到任意一台远程主
 
 ![](../imgs/ssh.png)
 ###  配置 SSH
- SSH 的配置:打开 /etc/ssh/sshd_config 进行编辑
+ SSH 的配置:打开 `/etc/ssh/sshd_config` 进行编辑
 
 
 ### 构建 ssh 密钥对
